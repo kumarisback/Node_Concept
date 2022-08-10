@@ -1,2 +1,2 @@
 # Node_Concept
-Sendgird, sockit , authentication
+Sendgird, sockit , authentication, jwt implementation 
